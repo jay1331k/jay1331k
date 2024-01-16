@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jay1331k
-- 👀 I’m interested in ... heights I could achieve with a laptop and an internet connection.
-- 🌱 I’m currently learning ... machine learning and backend dev
-- 💞️ I’m looking to collaborate on ... whatever you wish
+- 👀 I’m interested in ... exploring new upcoming technologies.
+- 🌱 I’m currently learning ... machine learning and backend dev.
+- 💞️ I’m looking to collaborate on ... I am just happy to be involved🥲.
 - 📫 How to reach me ... ig-ruckthefules
 
 <!---
