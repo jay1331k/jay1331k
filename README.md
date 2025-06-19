@@ -362,23 +362,7 @@ mindmap
 
 ---
 
-<div align="center">
 
-## 📊 **GITHUB ANALYTICS** 📊
-*Professional development insights*
-
-</div>
-
-<div align="center">
-<a href="https://github.com/jay1331k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay1331k&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
-</a>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay1331k&theme=tokyonight" alt="jay1331k" />
-</div>
 
   
 ### 🏆 **ACHIEVEMENT UNLOCKED** 🏆
