@@ -52,17 +52,22 @@
 <div align="center">
   
 ```ascii
-         🤖 AI ENGINEER 🤖
-              /     \
-         CREATIVITY  LOGIC
-            |         |
-       ┌─────────┐ ┌──────────┐
-       │ ADHD    │ │ SYSTEMS  │
-       │POWERED  │ │ THINKING │
-       │INNOVATION│ │ MASTER   │
-       └─────────┘ └──────────┘
-              \     /
-           💡 BREAKTHROUGH 💡
+      ╔══════════════════════════════════════════════════════════════╗
+      ║          THE MIND OF A CREATIVE TECHNOLOGIST                 ║
+      ╠════════════════════════════════╦═════════════════════════════╣
+      ║         THE ENGINEER           ║          THE ARTIST         ║
+      ║  ──────────────────────────    ║   ───────────────────────   ║
+      ║   ⚙️ Systems & Logic          ║    🎨 Chaotic Creativity    ║
+      ║   ⚙️ First Principles         ║    🎨 Pattern Recognition   ║
+      ║   ⚙️ Architecture & Structure ║    🎨 Connecting the Dots   ║
+      ║   ⚙️ Scalable Solutions       ║    🎨 "What If?" Scenarios  ║
+      ╚════════════════════════════════╩═════════════════════════════╝
+                     │                      │
+                     └──────────┐    ┌──────┘
+                                ▼    ▼
+                          ╔════════════╗
+                          ║BREAKTHROUGH║
+                          ╚════════════╝
 ```
 
 </div>
@@ -75,8 +80,6 @@
 **🌟 Recognition**: Google Hackathon Top Submission Winner  
 
 ---
-
-## 🔥 **WHAT MAKES ME DIFFERENT**
 
 ### 🧩 **The Structured Context Board Innovation**
 I invented a revolutionary approach to AI attention management - the **Structured Context Board (SCB)** - an external mechanism that dynamically manages LLM attention by reducing the "haystack" to what's truly necessary. This isn't just another RAG implementation; it's a fundamental rethinking of how AI agents maintain context.
@@ -94,11 +97,6 @@ I invented a revolutionary approach to AI attention management - the **Structure
 
 **The Impact**: 80% reduction in context resolution time, 95% improvement in response accuracy
 
-### 🎨 **Creative Problem Solver**
-My ADHD-powered creative mind and insatiable curiosity drive me to explore every corner of technology. I don't just use tools - I reimagine them, combine them, and sometimes invent entirely new approaches.
-
-### 🏗️ **Foundation-First Builder**
-I believe in understanding problems at their core before building solutions. This philosophy has led me to create everything from AI tutors to behavioral intervention apps, each addressing fundamental human needs.
 
 ---
 
@@ -421,11 +419,7 @@ mindmap
 
 </div>
 
-### 🧠 **What Actually Drives Me**:
-- **🔍 Curiosity**: The universe is a giant debugging session, and I'm here for it
-- **💥 Impact**: Code that changes lives, not just passes tests
-- **🚀 Innovation**: If it's been done before, I'm probably doing it differently
-- **📚 Growth**: Yesterday's impossible is today's warm-up
+
 
 ---
 
@@ -444,27 +438,6 @@ mindmap
 **💡 The Entrepreneurial Anomaly**  
 Building the future, one impossible idea at a time.
 
----
-
-<div align="center">
-
-## 🌟 **COLLABORATION INVITATION** 🌟
-*Ready to build something extraordinary?*
-
-</div>
-
-<div align="center">
-  
-```
-🎯 SEEKING FELLOW INNOVATORS FOR:
-  ├── 🤖 AI/ML breakthroughs that haven't been imagined
-  ├── 🚀 Startup ideas that sound crazy until they work
-  ├── 🧠 Behavioral science + technology fusion
-  ├── 🛠️ Problems that make others say "impossible"
-  └── 📚 Knowledge sharing that expands horizons
-```
-
-</div>
 
 <div align="center">
 
