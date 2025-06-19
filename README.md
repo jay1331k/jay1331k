@@ -467,11 +467,31 @@ Building the future, one impossible idea at a time.
 </div>
 
 <div align="center">
-  
-**Ready to turn ideas into reality?**  
-*Let's build something that changes the world.*
 
-[![Let's Create Magic](https://img.shields.io/badge/Let's_Create_Magic-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](mailto:jay1331kumar@gmail.com)
+## 🌟 **READY TO CREATE SOMETHING EXTRAORDINARY?** 🌟
+
+</div>
+
+<div align="center">
+  
+```
+🎯 SEEKING COLLABORATORS FOR:
+  🤖 AI/ML Innovations  •  🚀 Startup Ideas  •  🧠 Tech + Psychology
+  🛠️ "Impossible" Problems  •  📚 Knowledge Sharing
+```
+
+</div>
+
+<div align="center">
+
+### 💬 **INSTANT RESPONSE**
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918826003180?text=Hi%20Jay!%20Saw%20your%20GitHub%20profile%20-%20let's%20build%20something%20amazing!%20🚀)
+
+
+---
+
+⚡ **Response Time:** Usually within 4 hours  
+🌍 **Best Time:** 9 AM - 11 PM IST (GMT+5:30)
 
 </div>
 
